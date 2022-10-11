@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HaydenCour.
 - 👀 I’m interested in coding, cybersecurity, networking, and software devlopment.
-- 🌱 I’m currently learning cybersecurity.
+- 🌱 I’m currently learning computer programming with a focus on Python.
 - 💞️ I’m looking to collaborate on anything that can help me learn!
 - 📫 You can reach me at courtlandhayden@gmail.com
 
